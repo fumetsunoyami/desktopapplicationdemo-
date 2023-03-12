@@ -1,0 +1,14 @@
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\bin\Debug\lythuyettongquanvelaptrinhgd1.exe.config
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\bin\Debug\lythuyettongquanvelaptrinhgd1.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\bin\Debug\lythuyettongquanvelaptrinhgd1.pdb
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.csproj.AssemblyReference.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.csproj.SuggestedBindingRedirects.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.Form1.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.groupbox.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.imagelist.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.menustrip.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.Properties.Resources.resources
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.csproj.GenerateResource.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.csproj.CoreCompileInputs.cache
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.exe
+D:\CTK45B_2115230_NguyenVietLinh_B!\lập trình window\lythuyettongquanvelaptrinhgd1\obj\Debug\lythuyettongquanvelaptrinhgd1.pdb
